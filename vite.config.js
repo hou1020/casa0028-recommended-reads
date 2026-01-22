@@ -12,5 +12,6 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: '/casa0028-recommended-reads/'
+  base: '/casa0028-recommended-reads/',
+  homepage: 'https://github.io/hou1020/casa0028-recommended-reads'
 })
